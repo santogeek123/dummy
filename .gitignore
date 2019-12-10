@@ -1,0 +1,14 @@
+.idea/
+dist/
+node_modules/
+src/**/*.jsx
+tests/__coverage__/
+tests/**/*.jsx
+cypress/fixtures
+cypress/plugins
+cypress/screenshots
+cypress/support
+cypress/videos
+
+
+.DS_Store

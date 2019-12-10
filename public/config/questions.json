@@ -1,0 +1,62 @@
+[
+    {
+    "id":0,
+    "questionType": "radio",
+    "question": "What is ReactJS?",
+    "options": ["Server-side Framework","User-interface Library","Both", "None"],
+    "answer": "User-interface Library",
+    "selectedOption":null,
+    "selectedVal":"",
+    "result":false
+  },
+   {
+    "id":1,
+    "questionType": "radio",
+    "question": "What is Babel?",
+    "options": ["A transpiler","An interpreter","A Compiler", "Both Compiler and Transpilar"],
+    "answer": "Both Compiler and Transpilar",
+    "selectedOption":null,
+    "selectedVal":"",
+    "result":false
+  },
+   {
+    "id":2,
+    "questionType": "textarea",
+    "question": "What is Redux?",
+    "options": [],
+    "answer": "Redux is predcitable stae container for the application",
+    "selectedOption":null,
+    "selectedVal":"",
+    "result":false
+  },
+   {
+    "id":3,
+    "questionType": "checkbox",
+    "question": "In JSX?",
+    "options": [
+      {
+        "name":"class becomes className",
+        "selected":false
+      },
+      {
+        "name":"Any valid JavaScript expression inside the curly braces in JSX.",
+        "selected":false
+      },
+      {
+        "name":"JSX is mandatory in react",
+        "selected":false
+      },
+      {
+        "name":"JSX is a syntax extension to JavaScript",
+        "selected":false
+      }
+    ],
+    "answer": ["class becomes className","Any valid JavaScript expression inside the curly braces in JSX.","JSX is a syntax extension to JavaScript"],
+    "selectedOption":[],
+    "selectedVal":[],
+    "result":false
+  }
+  
+  ]
+   
+   
